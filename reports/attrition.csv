@@ -1,0 +1,8 @@
+step,n_patients,n_deaths
+All ICU stays (linked to admission),94458,11350
+First ICU stay per patient,65366,7086
+Adult (age >= 18),65366,7086
+ICU stay >= 24h,51838,5522
+Alive at index (no death <= index),51667,5351
+Hospital discharge after index,51563,5314
+Outcome label present,51563,5314

@@ -1,0 +1,51 @@
+itemid,label,fluid,category
+50852,% Hemoglobin A1c,Blood,Chemistry
+50855,Absolute Hemoglobin,Blood,Chemistry
+50805,Carboxyhemoglobin,Blood,Blood Gas
+52546,Creatinine,Blood,Chemistry
+50912,Creatinine,Blood,Chemistry
+52024,"Creatinine, Whole Blood",Blood,Blood Gas
+52105,Direct Antiplatelet Antibodies,Blood,Hematology
+51212,Fetal Hemoglobin,Blood,Hematology
+50809,Glucose,Blood,Blood Gas
+52569,Glucose,Blood,Chemistry
+50931,Glucose,Blood,Chemistry
+51631,Glycated Hemoglobin,Blood,Chemistry
+50811,Hemoglobin,Blood,Blood Gas
+51222,Hemoglobin,Blood,Hematology
+51640,Hemoglobin,Blood,Chemistry
+51641,Hemoglobin  A,Blood,Chemistry
+51642,Hemoglobin  A1,Blood,Chemistry
+51643,Hemoglobin  A2,Blood,Chemistry
+51644,Hemoglobin  C,Blood,Chemistry
+51646,Hemoglobin  F,Blood,Chemistry
+51647,Hemoglobin  S,Blood,Chemistry
+51223,Hemoglobin A2,Blood,Hematology
+51224,Hemoglobin C,Blood,Hematology
+51225,Hemoglobin F,Blood,Hematology
+52128,Hemoglobin H Inclusion,Blood,Hematology
+52129,Hemoglobin Other,Blood,Hematology
+51645,"Hemoglobin, Calculated",Blood,Chemistry
+53154,Lactate,Blood,Chemistry
+50813,Lactate,Blood,Blood Gas
+52442,Lactate,Blood,Blood Gas
+50954,Lactate Dehydrogenase (LD),Blood,Chemistry
+51240,Large Platelets,Blood,Hematology
+52142,Mean Platelet Volume,Blood,Hematology
+50814,Methemoglobin,Blood,Blood Gas
+52144,Methemoglobin,Blood,Hematology
+52032,P50 of Hemoglobin,Blood,Blood Gas
+52157,Plasma Hemoglobin,Blood,Hematology
+52159,Platelet Aggregation,Blood,Hematology
+51264,Platelet Clumps,Blood,Hematology
+53189,Platelet Count,Blood,Chemistry
+51265,Platelet Count,Blood,Hematology
+51266,Platelet Smear,Blood,Hematology
+50971,Potassium,Blood,Chemistry
+52610,Potassium,Blood,Chemistry
+51285,"Reticulocyte, Cellular Hemoglobin",Blood,Hematology
+50983,Sodium,Blood,Chemistry
+52623,Sodium,Blood,Chemistry
+51755,White Blood Cells,Blood,Chemistry
+51301,White Blood Cells,Blood,Hematology
+51756,White Blood Cells,Blood,Chemistry

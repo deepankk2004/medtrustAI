@@ -1,0 +1,24 @@
+# MedTrust Model 1: feature definitions (ranges are proposals; review before freeze)
+window_hours: 24
+lab_lookback_hours: 6      # labs ke liye intime se 6h pehle tak ka data allowed (0 = strict ICU window)
+
+vitals:            # source: icu/chartevents
+  heart_rate:  {itemids: [220045],        range: [0, 300]}
+  resp_rate:   {itemids: [220210],        range: [0, 80]}
+  spo2:        {itemids: [220277],        range: [0, 100]}
+  temperature: {itemids: [223762, 223761], range: [25, 45]}   # 223761 is Fahrenheit -> convert to C
+  sbp:         {itemids: [220179, 220050], range: [20, 300]}   # NIBP + arterial line merged
+  dbp:         {itemids: [220180, 220051], range: [5, 200]}
+
+labs:              # source: hosp/labevents
+  creatinine: {itemids: [50912, 52546],        range: [0.1, 30]}
+  wbc:        {itemids: [51301, 51300, 51755, 51756], range: [0, 500]}   # 51300 pending check
+  lactate:    {itemids: [50813, 53154], range: [0.1, 30]}
+  sodium:     {itemids: [50983, 52623, 50824], range: [90, 190]}          # 50824 pending check
+  potassium:  {itemids: [50971, 52610, 50822], range: [1, 12]}            # 50822 pending check
+  hemoglobin: {itemids: [51222, 50811],        range: [2, 25]}
+  platelets:  {itemids: [51265, 53189],        range: [1, 2000]}
+  glucose:    {itemids: [50931, 52569, 50809], range: [10, 2000]}
+
+stats: [mean, min, max]
+missing_indicator: true

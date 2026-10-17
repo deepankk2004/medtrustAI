@@ -1,0 +1,37 @@
+itemid,label,abbreviation,category,unitname
+226861,ART %O2 saturation (PA Line),ART %O2 saturation (PA Line),PA Line Insertion,%
+220051,Arterial Blood Pressure diastolic,ABPd,Routine Vital Signs,mmHg
+220050,Arterial Blood Pressure systolic,ABPs,Routine Vital Signs,mmHg
+220227,Arterial O2 Saturation,SaO2,Labs,%
+226329,Blood Temperature CCO (C),Blood Temp CCO (C),Routine Vital Signs,°C
+229236,Cerebral Temperature (C),Cerebral T (C),Hemodynamics,°C
+224674,Changes in Temperature,Changes in Temperature,Toxicology,
+229862,Forehead SpO2 Sensor in Place,Forehead SpO2 Sensor in Place,Routine Vital Signs,
+220045,Heart Rate,HR,Routine Vital Signs,bpm
+220047,Heart Rate Alarm - Low,HR Alarm - Low,Alarms,bpm
+220046,Heart rate Alarm - High,HR Alarm - High,Alarms,bpm
+224643,Manual Blood Pressure Diastolic Left,Manual BPd L,Routine Vital Signs,mmHg
+227242,Manual Blood Pressure Diastolic Right,Manual BPd R,Routine Vital Signs,mmHg
+224167,Manual Blood Pressure Systolic Left,Manual BPs L,Routine Vital Signs,mmHg
+227243,Manual Blood Pressure Systolic Right,Manual BPs R,Routine Vital Signs,mmHg
+220180,Non Invasive Blood Pressure diastolic,NBPd,Routine Vital Signs,mmHg
+220181,Non Invasive Blood Pressure mean,NBPm,Routine Vital Signs,mmHg
+220179,Non Invasive Blood Pressure systolic,NBPs,Routine Vital Signs,mmHg
+223769,O2 Saturation Pulseoxymetry Alarm - High,SpO2 Alarm - High,Alarms,%
+223770,O2 Saturation Pulseoxymetry Alarm - Low,SpO2 Alarm - Low,Alarms,%
+220277,O2 saturation pulseoxymetry,SpO2,Respiratory,%
+226862,PA %O2 Saturation (PA Line),PA %O2 Saturation (PA Line),PA Line Insertion,%
+226863,PVR %O2 Saturation (PA Line),PVR %O2 Saturation (PA Line),PA Line Insertion,dynes*sec/cm5
+228242,Pt. Temperature (BG) (SOFT),Pt. Temperature (BG) (SOFT),Labs,None
+226860,RA %O2 Saturation (PA Line),RA %O2 Saturation (PA Line),PA Line Insertion,%
+220210,Respiratory Rate,RR,Respiratory,insp/min
+224688,Respiratory Rate (Set),Respiratory Rate (Set),Respiratory,insp/min
+224690,Respiratory Rate (Total),Respiratory Rate (Total),Respiratory,insp/min
+224689,Respiratory Rate (spontaneous),Respiratory Rate (spontaneous),Respiratory,insp/min
+226865,SVR %O2 Saturation (PA Line),SVR %O2 Saturation (PA Line),PA Line Insertion,dynes*sec/cm5
+224027,Skin Temperature,Skin Temp,Skin - Assessment,
+226253,SpO2 Desat Limit,SpO2 Desat Limit,Alarms,%
+223762,Temperature Celsius,Temperature C,Routine Vital Signs,°C
+223761,Temperature Fahrenheit,Temperature F,Routine Vital Signs,°F
+224642,Temperature Site,Temp Site,Routine Vital Signs,
+227054,TemperatureF_ApacheIV,TemperatureF_ApacheIV,Scores - APACHE IV (2),°F
