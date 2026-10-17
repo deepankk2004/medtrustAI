@@ -1,0 +1,6 @@
+{
+  "primary_model": "XGBoost",
+  "calibrator": "platt",
+  "operating_threshold": 0.19999999999999996,
+  "rule": "val AUROC within 0.005 of best -> lowest calibrated Brier"
+}
