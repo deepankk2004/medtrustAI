@@ -1,0 +1,108 @@
+{
+  "noise": "0.25",
+  "operating_threshold": 0.19999999999999996,
+  "tolerance": 0.015,
+  "thresholds": {
+    "conf_only@0.6": {
+      "tau_conf": 0.9316999316215515,
+      "tau_ers": null
+    },
+    "ers_equal_mean@0.6": {
+      "tau_conf": 0.9316999316215515,
+      "tau_ers": 0.03597285067873303
+    },
+    "pred_instability@0.6": {
+      "tau_conf": 0.9316999316215515,
+      "tau_ers": 0.0
+    },
+    "control_random_score@0.6": {
+      "tau_conf": 0.9316999316215515,
+      "tau_ers": 0.02146613797407861
+    },
+    "conf_only@0.7": {
+      "tau_conf": 0.9014421105384827,
+      "tau_ers": null
+    },
+    "ers_equal_mean@0.7": {
+      "tau_conf": 0.9014421105384827,
+      "tau_ers": 0.03597285067873303
+    },
+    "pred_instability@0.7": {
+      "tau_conf": 0.9014421105384827,
+      "tau_ers": 0.0
+    },
+    "control_random_score@0.7": {
+      "tau_conf": 0.9014421105384827,
+      "tau_ers": 0.00031441964408696066
+    },
+    "conf_only@0.8": {
+      "tau_conf": 0.8491843938827515,
+      "tau_ers": null
+    },
+    "ers_equal_mean@0.8": {
+      "tau_conf": 0.8491843938827515,
+      "tau_ers": 0.03597285067873303
+    },
+    "pred_instability@0.8": {
+      "tau_conf": 0.8491843938827515,
+      "tau_ers": 0.01999741435035557
+    },
+    "control_random_score@0.8": {
+      "tau_conf": 0.8491843938827515,
+      "tau_ers": 0.00031441964408696066
+    },
+    "conf_only@0.9": {
+      "tau_conf": 0.3972945511341095,
+      "tau_ers": null
+    },
+    "ers_equal_mean@0.9": {
+      "tau_conf": 0.3972945630550385,
+      "tau_ers": 0.03597285067873303
+    },
+    "pred_instability@0.9": {
+      "tau_conf": 0.3972945630550385,
+      "tau_ers": 0.0
+    },
+    "control_random_score@0.9": {
+      "tau_conf": 0.3972945630550385,
+      "tau_ers": 0.00031441964408696066
+    },
+    "fixed_ers_equal_mean@0.6": {
+      "tau_conf": 0.8835285305976868,
+      "tau_ers": 0.3026276664511959
+    },
+    "fixed_ers_equal_mean@0.7": {
+      "tau_conf": 0.8089159727096558,
+      "tau_ers": 0.3026276664511959
+    },
+    "fixed_ers_equal_mean@0.8": {
+      "tau_conf": 0.265533447265625,
+      "tau_ers": 0.3026276664511959
+    },
+    "fixed_pred_instability@0.6": {
+      "tau_conf": 0.9025983810424805,
+      "tau_ers": 0.14998060762766646
+    },
+    "fixed_pred_instability@0.7": {
+      "tau_conf": 0.835796594619751,
+      "tau_ers": 0.14998060762766646
+    },
+    "fixed_pred_instability@0.8": {
+      "tau_conf": 0.2841172218322754,
+      "tau_ers": 0.14998060762766646
+    },
+    "fixed_control_random_score@0.6": {
+      "tau_conf": 0.8989874124526978,
+      "tau_ers": 0.14918853834173915
+    },
+    "fixed_control_random_score@0.7": {
+      "tau_conf": 0.8300160765647888,
+      "tau_ers": 0.14918853834173915
+    },
+    "fixed_control_random_score@0.8": {
+      "tau_conf": 0.28119000792503357,
+      "tau_ers": 0.14918853834173915
+    }
+  },
+  "fixed_gate_quantile": 0.15
+}

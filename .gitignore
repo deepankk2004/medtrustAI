@@ -6,3 +6,5 @@ __pycache__/
 *.gz
 .ipynb_checkpoints/
 !reports/*.csv
+*.npz
+catboost_info/

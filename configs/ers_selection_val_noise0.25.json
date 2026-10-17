@@ -1,0 +1,5 @@
+{
+  "noise": "0.25",
+  "selected": "equal_mean",
+  "verdict": "NO candidate adds significant incremental value in the expected direction (negative result on H2); equal_mean kept as default for descriptive analyses"
+}
